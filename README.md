@@ -39,4 +39,4 @@ Challenge 2 - MSIB (Binar Academy) - BACK END JAVASCRIPT - With AI Literacy & Gl
 
 ## Flowchart
 
-![Basic-Banking-System-Flowchart](Basic-banking-sistem-Flowchart.png)
+![Basic-Banking-System-Flowchart](Basic-banking-system-flowchart.png)
